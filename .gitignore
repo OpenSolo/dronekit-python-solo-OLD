@@ -1,0 +1,7 @@
+.project
+.pydevproject
+droneapi.egg-info
+dist
+build
+*~
+
